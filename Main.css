@@ -3,3 +3,19 @@
   height: 1200px;
   background-color: #e1eef5;
 }
+.class1 {
+  margin: 50px;
+  width: 500px;
+  height: 300px;
+  background-color: gray;
+}
+ 
+.class2 {
+  display: block;
+  margin: auto;
+}
+ 
+.class3 {
+  display: block;
+  margin: auto;
+}
