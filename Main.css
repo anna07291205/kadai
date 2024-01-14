@@ -1,21 +1,23 @@
 .box1 {
+  font-size: 40px;    /* 文字サイズ指定 */
+    color: black;     /* 文字色指定 */
   width: 500px;
   height: 50px;
   background-color: #e1eef5;
 }
 .midori {
-    font-size: 40px;    /* 文字サイズ指定 */
+    font-size: 30px;    /* 文字サイズ指定 */
     color: green;     /* 文字色指定 */
 }
 .murasaki {
-    font-size: 40px;    /* 文字サイズ指定 */
+    font-size: 30px;    /* 文字サイズ指定 */
     color: purple;     /* 文字色指定 */
 }
 .aka {
-    font-size: 40px;    /* 文字サイズ指定 */
+    font-size: 30px;    /* 文字サイズ指定 */
     color: red;     /* 文字色指定 */
 }
 .kiro {
-    font-size: 40px;    /* 文字サイズ指定 */
+    font-size: 30px;    /* 文字サイズ指定 */
     color: yellow;     /* 文字色指定 */
 }
