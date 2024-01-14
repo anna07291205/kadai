@@ -6,19 +6,19 @@
   background-color: #e1eef5;
 }
 h2 {
-    font-size: 30px;    /* 文字サイズ指定 */
+    font-size: 23px;    /* 文字サイズ指定 */
     color: green;     /* 文字色指定 */
 }
 h3 {
-    font-size: 30px;    /* 文字サイズ指定 */
+    font-size: 23px;    /* 文字サイズ指定 */
     color: purple;     /* 文字色指定 */
 }
 h4 {
-    font-size: 30px;    /* 文字サイズ指定 */
+    font-size: 23px;    /* 文字サイズ指定 */
     color: red;     /* 文字色指定 */
 }
 h5 {
-    font-size: 30px;    /* 文字サイズ指定 */
+    font-size: 23px;    /* 文字サイズ指定 */
     color: yellow;     /* 文字色指定 */
 }
 
