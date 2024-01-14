@@ -7,17 +7,17 @@
 }
 .midori {
     font-size: 30px;    /* 文字サイズ指定 */
-    color: green;     /* 文字色指定 */
+    color:green;     /* 文字色指定 */
 }
 .murasaki {
     font-size: 30px;    /* 文字サイズ指定 */
-    color: purple;     /* 文字色指定 */
+    color:purple;     /* 文字色指定 */
 }
 .aka {
     font-size: 30px;    /* 文字サイズ指定 */
-    color: red;     /* 文字色指定 */
+    color:red;     /* 文字色指定 */
 }
 .kiro {
     font-size: 30px;    /* 文字サイズ指定 */
-    color: yellow;     /* 文字色指定 */
+    color:yellow;     /* 文字色指定 */
 }
