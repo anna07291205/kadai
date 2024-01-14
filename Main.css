@@ -3,7 +3,19 @@
   height: 50px;
   background-color: #e1eef5;
 }
-th.aka {color: red;}
-th.midori {color: green;}
-th.murasaki {color: purple;}
-th.kiro {color: yellow;}
+.midori {
+    font-size: 40px;    /* 文字サイズ指定 */
+    color: #2196F3;     /* 文字色指定 */
+}
+.murasaki {
+    font-size: 40px;    /* 文字サイズ指定 */
+    color: #2196F3;     /* 文字色指定 */
+}
+.aka {
+    font-size: 40px;    /* 文字サイズ指定 */
+    color: #2196F3;     /* 文字色指定 */
+}
+.kiro {
+    font-size: 40px;    /* 文字サイズ指定 */
+    color: #2196F3;     /* 文字色指定 */
+}
