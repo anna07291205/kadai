@@ -1,2 +1,1 @@
-function gazo1()
-{document.getElementById('who1').innerHTML='<img src="./image/うらたぬき実写.jpg" alt="オン">';}
+function txtchange1(){document.getElementById('txt1').innerHTML='ナンバーワン！';}
