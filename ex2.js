@@ -1,2 +1,2 @@
-function gazo688()
-{document.getElementById('who688').innerHTML='<img src="./image/志麻画像.jpg" alt="オン">';}
+function gazo2()
+{document.getElementById('who2').innerHTML='<img src="./image/志麻画像.jpg" alt="オン">';}
